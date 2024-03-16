@@ -1,0 +1,18 @@
+/* UranusCarousel.css */
+.uranus-carousel-container {
+    background-color: #121212; /* Dark background color */
+  }
+  
+  .uranus-token-image {
+    max-width: 200px; /* Set maximum width for the token image */
+    margin: 0 auto; /* Center the image */
+    display: block; /* Make it a block element */
+  }
+  
+  .image {
+    width: 100%; /* Make images responsive */
+    border-radius: 8px; /* Add border radius for rounded corners */
+  }
+  
+  /* Add more CSS styles for other elements as needed */
+  
